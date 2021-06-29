@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NS xmlns="http://www.iec.ch/61850/2016/NSD" id="MT NPP" version="2021" revision="A">
+	<LNClasses/>
+</NS>
